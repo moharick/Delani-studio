@@ -5,7 +5,7 @@
 ## Description
   This is a website portfolio that showcases work done 
 ## Screenshot
-<img src="/..images/delani.png" width="1000">
+<img src="https://github.com/moharick/delani-studio/blob/master/images/delani.png" width="1000">
 
 ## Setup
 
@@ -37,7 +37,7 @@
 
  
  > On submit your output will be "Hi Mohammed Musa, Thank you for reaching to us, we will get back to you shortly."
- 
+
 ## Known Bugs
   > ``mail chimp api is not working``
 
