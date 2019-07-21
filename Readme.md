@@ -47,7 +47,7 @@
   > `` Markdown ``
   > `` Js ``
   > `` Bootstrap ``
-
+  > ``JQuery``
 ## License
   MIT License
 Copyright (c) 2019 Moharick
