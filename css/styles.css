@@ -45,3 +45,12 @@ h2{
 .row{
     margin-bottom: 20px;
 }
+overlay{
+    background-image: url("../images/background/c_image.jpg");
+    color: antiquewhite;
+    text-shadow: 1px 1px black;
+}
+.contacts{
+    background-color: rgba(0, 0, 0, 0.5);
+     padding: 11%;
+}
