@@ -45,7 +45,7 @@ h2{
 .row{
     margin-bottom: 20px;
 }
-overlay{
+.overlay{
     background-image: url("../images/background/c_image.jpg");
     color: antiquewhite;
     text-shadow: 1px 1px black;
@@ -53,4 +53,145 @@ overlay{
 .contacts{
     background-color: rgba(0, 0, 0, 0.5);
      padding: 11%;
+}
+#name{
+    background-color: #66000000;
+}
+#email{
+    background-color: #66000000;
+    
+}
+#message{
+    background-color: #66000000;
+}
+.footer{
+    text-align: center;
+}
+#work1 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work1 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:#cae5c1;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
+}
+#work2 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work2 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:#cae5c1;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
+}
+#work3 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work3 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:#cae5c1;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
+}
+#work4 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work4 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:#cae5c1;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
+}
+#work5 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work5 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:#cae5c1;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
+}
+#work6 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work6 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:#cae5c1;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
+}
+#work7 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work7 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:#cae5c1;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
+}
+#work8 {
+	float: left;
+	position: relative;
+	margin: 5px;
+	color: #333;
+}
+#work8 .image-cap {
+	display: none;
+	opacity: 0.8;
+	background:cyan;
+	width: 195px;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    height: 100%;
 }
