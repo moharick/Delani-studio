@@ -37,3 +37,20 @@
 
  
  > On submit your output will be "Hi Mohammed Musa, Thank you for reaching to us, we will get back to you shortly."
+ 
+## Known Bugs
+  > ``mail chimp api is not working``
+
+## Technologies used
+  > `` html5 ``
+  > `` Css ``
+  > `` Markdown ``
+  > `` Js ``
+  > `` Bootstrap ``
+
+## License
+  MIT License
+Copyright (c) 2019 Moharick
+
+## Collaborate
+  > Send me an [email](moharick@gmail.com) to collaborate on the project.
