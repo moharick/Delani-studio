@@ -89,17 +89,17 @@ $(document).ready(function() {
     });
 });
 //Form Validation
-var name = $("input#name").val();
-var email = $("input#email").val();
+var name = $("input#MERGE1").val();
+var email = $("input#MERGE0").val();
 var message = $("textarea#message").val();
     $("form#form").on('submit',function(event){
-        event.preventDefault();
-        let name = $("input#name").val();
-        let email = $("input#email").val();
+        // event.preventDefault();
+        let name = $("input#MERGE1").val();
+        let email = $("input#MERGE0").val();
         let message = $("textarea#message").val();
 
-        if ($("input#name").val() && $("input#email").val()){
-            alert ("Hi " + name + ", Thank you for reaching to us, we will get back to you shortly.");
+        if ($("input#MERGE1").val() && $("input#MERGE0").val()){
+            alert ("Hi " + name+ ", Thank you for reaching to us, we will get back to you shortly.");
         }
         else {
             alert("Please enter your name and email!");
